@@ -1,1 +1,3 @@
 # Classification-Problem
+The objective of this assessment is to evaluate the understanding and ability to apply supervised learning techniques to a real-world dataset.
+This task performs essential data reprocessing steps on the breast cancer dataset to prepare it for further analysis,particularly for machine Learning model training.By addressing missing values,scaling features,and handling outliers ,the code enhances the quality and suitability of the data for analysis.The visualizations generated,specificially the boxplots,provide insights into the data distribution and the effectiveness of the outlier capping technique. 
